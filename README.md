@@ -92,7 +92,7 @@ A core objective of this analysis was identifying **equity gaps in energy progra
 
 ## Project Report
 
-- 📄 **[Montclair Community Energy Plan – Community Overview (Full Document)](link-to-report)**
+- 📄 **[Montclair Community Energy Plan – Community Overview (Full Document)](https://github.com/Ivan-dlpm/Montclair-Community-Energy-Plan/blob/main/Montclair%20Energy%20Plan%20Community%20Overview%20(2).pdf)**
 
 ---
 
